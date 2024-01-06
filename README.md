@@ -1,3 +1,3 @@
 # de-mo
 This is my first Git repository
-Author - Dhruv Dhuria
+Author - Dhruv Dhuria(student)
